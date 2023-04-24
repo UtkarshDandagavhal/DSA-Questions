@@ -4,7 +4,7 @@
 #include<map>
 using namespace std;
 
-// defualt comparator
+// custom comparator
 bool comp(char x, char y){
   return x > y;
 }
